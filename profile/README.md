@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kastle-Five/.github/raw/main/profile/banner.png" alt="AI writes the code. K5 tests, hunts and guards it. Kastle Five" width="100%">
+  <img src="https://github.com/Kastle-Five/.github/raw/main/profile/banner.png?v=2" alt="AI writes the code. K5 tests, hunts and guards it. Kastle Five" width="100%">
 </p>
 
 <br>
