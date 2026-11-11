@@ -18,12 +18,6 @@ Checks your live site from the outside, as a visitor sees it: certificate, secur
 **Kry4help** · Monitoring  
 A monitor in plain JavaScript with no dependencies, written for you to run on your own server: checks around the clock with no Kastle Five server in between, seven days of history, reports sealed and signed, and alerts to your phone through ntfy or your own Twilio account, or to Slack, Discord or a webhook.
 
-<br>
-
-**K5**  ·  [kastlefive.dev](https://kastlefive.dev)
-
-**ActivePray**  ·  daily prayer for Judaism, Christianity and Islam, on iPhone  ·  [activepray.com](https://activepray.com)
-
 ### The work
 
 **Bearing** · Security  
@@ -57,3 +51,9 @@ Maps where personal data flows through your code and runs checks on a sealed cop
 
 **Arc** · Evidence  
 Seals findings, runs and changes into an encrypted, signed file that only the people you choose can open, and anyone can verify.
+
+<br>
+
+**K5**  ·  [kastlefive.dev](https://kastlefive.dev)
+
+**ActivePray**  ·  daily prayer for Judaism, Christianity and Islam, on iPhone  ·  [activepray.com](https://activepray.com)
